@@ -26,7 +26,7 @@ public class ConstructorDemo {
 		System.out.println(itemarr[1]);
 		System.out.println(itemarr[2]);
 		
-		System.out.println("Sales Tax: " + Item.getSALES_TAX());
+		System.out.println("Sales Tax: $" + Item.getSALES_TAX());
 		System.out.printf("Cart Total: $%.2f", Item.calculateCartTotal(itemarr));
 	}
 
