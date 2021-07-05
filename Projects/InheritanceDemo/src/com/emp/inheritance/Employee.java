@@ -14,6 +14,7 @@ public class Employee {
 	}
 
 	public void work() {
+		this.printdetails();
 		System.out.println("Common work for all employees");
 	}
 
