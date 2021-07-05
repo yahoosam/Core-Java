@@ -1,7 +1,7 @@
 package com.emp.inheritance;
 
 public class Tester extends Employee {
-	public String[] tools;
+	String[] tools;
 
 	public Tester(int id, String name, String dept, double salary, String[] tools) {
 		super(id, name, dept, salary);

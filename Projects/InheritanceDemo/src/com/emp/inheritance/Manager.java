@@ -1,7 +1,7 @@
 package com.emp.inheritance;
 
 public class Manager extends Employee {
-	public String[] projects;
+	String[] projects;
 
 	public Manager(int id, String name, String dept, double salary, String[] projects) {
 		super(id, name, dept, salary);

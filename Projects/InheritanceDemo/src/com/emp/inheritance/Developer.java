@@ -1,7 +1,7 @@
 package com.emp.inheritance;
 
 public class Developer extends Employee {
-	public String technologystack;
+	String technologystack;
 
 	public Developer(int id, String name, String dept, double salary, String technologystack) {
 		super(id, name, dept, salary);
