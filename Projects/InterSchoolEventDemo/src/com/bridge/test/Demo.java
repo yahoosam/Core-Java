@@ -32,6 +32,7 @@ public class Demo {
 		event2.setIslive(true);
 		System.out.println(event2.toString());
 
+		//below is an perfect example of run time polymorphism
 		EventManger em2 = new EventManagerDrawingImpl();
 		Event event3 = em2.create(3);
 		System.out.println(event3.toString());
