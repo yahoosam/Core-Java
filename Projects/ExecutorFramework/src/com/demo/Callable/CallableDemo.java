@@ -12,7 +12,7 @@ public class CallableDemo {
 				new SumCalculator(40), new SumCalculator(50), new SumCalculator(60), new SumCalculator(70),
 				new SumCalculator(80), new SumCalculator(90) };
 
-		ExecutorService service = Executors.newFixedThreadPool(5);
+		ExecutorService service = Executors.newFixedThreadPool(3);
 
 		for (SumCalculator sumCalculator : sc) {
 			Future<Integer> future = service.submit(sumCalculator);

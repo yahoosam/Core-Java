@@ -12,6 +12,7 @@ public class SumCalculator implements Callable<Integer> {
 
 	@Override
 	public Integer call() throws Exception {
+		System.out.println(Thread.currentThread().getName()+" thread is calculating the sum for: " + num);
 		int sum = 0;
 
 		for (int i = 0; i <= num; i++) {
