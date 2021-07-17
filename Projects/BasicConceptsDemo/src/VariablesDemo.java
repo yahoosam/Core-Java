@@ -1,3 +1,4 @@
+import java.util.Locale;
 
 public class VariablesDemo {
 
@@ -21,6 +22,17 @@ public class VariablesDemo {
 		System.out.println(c);
 		System.out.println(isSet);
 		System.out.println(str);
+
+		String somestr = "Hello Tesla";
+		String[] split = somestr.split(" ");
+		for (String extract : split) {
+			System.out.println(extract);
+		}
+		
+		System.out.println(somestr.length());
+		
+		StringBuffer sb = new StringBuffer("Andromeda");
+		System.out.println(sb.reverse().toString().toUpperCase());
 	}
 
 }
