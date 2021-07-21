@@ -1,4 +1,4 @@
-package com.demp.entity;
+package com.demo.entity;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package com.demp.entity;
+package com.demo.entity;
 
 public class CustomerDetails implements Comparable<CustomerDetails> {
 	private int id;

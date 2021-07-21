@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
-import com.demp.entity.CustomerDetails;
-import com.demp.entity.CustomerIdComparator;
-import com.demp.entity.CustomerIndustryComparator;
-import com.demp.entity.CustomerNameComparator;
+import com.demo.entity.CustomerDetails;
+import com.demo.entity.CustomerIdComparator;
+import com.demo.entity.CustomerIndustryComparator;
+import com.demo.entity.CustomerNameComparator;
 
 public class TreeSetComparatorDemo {
 

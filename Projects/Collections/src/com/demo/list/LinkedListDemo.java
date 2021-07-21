@@ -3,7 +3,7 @@ package com.demo.list;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.demp.entity.CustomerDetails;
+import com.demo.entity.CustomerDetails;
 
 public class LinkedListDemo {
 

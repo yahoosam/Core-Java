@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import com.demp.entity.CustomerDetails;
+import com.demo.entity.CustomerDetails;
 
 public class HashSetDemo {
 

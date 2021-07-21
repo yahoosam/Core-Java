@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
-import com.demp.entity.CustomerDetails;
+import com.demo.entity.CustomerDetails;
 
 public class TreeSetDemo {
 
