@@ -1,0 +1,40 @@
+package com.demo.set;
+
+import java.util.ArrayList;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
+
+import com.demp.entity.CustomerDetails;
+
+public class LinkedHashSetDemo {
+
+	public static void main(String[] args) {
+		List<CustomerDetails> list = new ArrayList<>();
+
+		list.add(new CustomerDetails(232, "Google", "Digital"));
+		list.add(new CustomerDetails(429, "Yahoo", "email"));
+		list.add(new CustomerDetails(131, "Lenovo", "Computers"));
+		list.add(new CustomerDetails(232, "Google", "Digital"));
+		list.add(new CustomerDetails(432, "Amazon", "Retail"));
+		list.add(new CustomerDetails(928, "Walmart", "Retail"));
+		list.add(new CustomerDetails(131, "Lenovo", "Computers"));
+		list.add(new CustomerDetails(172, "Kohls", "Clothing"));
+
+		System.out.println("Size: " + list.size());
+		for (CustomerDetails element : list) {
+			System.out.println(element.toString());
+		}
+
+		// In LinkedHashset, duplicates are NOT allowed
+		// Order is maintained
+		Set<CustomerDetails> set = new LinkedHashSet<>(list);
+
+		System.out.println("Size: " + set.size());
+		for (CustomerDetails element : set) {
+			System.out.println(element.toString());
+		}
+
+	}
+
+}
