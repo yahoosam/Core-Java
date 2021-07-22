@@ -1,6 +1,7 @@
 package com.demo.set;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
@@ -53,6 +54,13 @@ public class TreeSetComparatorDemo {
 		set3.addAll(list);
 		System.out.println("Sorted with industrycomparator - Size: " + set3.size());
 		for (CustomerDetails element : set3) {
+			System.out.println(element.toString());
+		}
+
+		// without using TreeSet, use the comparator directly in the ArrayList Ex below
+		System.out.println("ArrayList sorted with NameComparator - Size: " + list.size());
+		Collections.sort(list, new CustomerNameComparator());
+		for (CustomerDetails element : list) {
 			System.out.println(element.toString());
 		}
 
