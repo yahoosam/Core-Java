@@ -1,6 +1,7 @@
 package com.demo.list;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 import com.demo.entity.CustomerDetails;
@@ -25,6 +26,15 @@ public class ArrayListDemo {
 		}
 		// In ArrayList, duplicates are allowed
 		// Order is maintained
+
+		System.out.println();
+
+		// Display using iterator
+		Iterator<CustomerDetails> iterator = list.iterator();
+		while (iterator.hasNext()) {
+			CustomerDetails customerDetails = (CustomerDetails) iterator.next();
+			System.out.println(customerDetails.toString());
+		}
 	}
 
 }
