@@ -3,10 +3,24 @@ package com.cj.constructor.ui;
 import com.cj.constructor.model.Item;
 
 public class ConstructorDemo {
+	
+	{
+		System.out.println("3. Inside non-static block");
+	}
+	
+	static {
+		System.out.println("1. Inside static block");
+	}
+	
+	public ConstructorDemo() {
+		System.out.println("4. Inside constructor block");
+	}
 
 	public static void main(String[] args) {
-		System.out.println("-- Constructor Demo --");
+		System.out.println("2. Inside static main block");
+		ConstructorDemo cd = new ConstructorDemo();
 		
+		System.out.println("-- Constructor Demo --");
 		Item itemarr[] = new Item[3];
 		
 		itemarr[0] = new Item();
