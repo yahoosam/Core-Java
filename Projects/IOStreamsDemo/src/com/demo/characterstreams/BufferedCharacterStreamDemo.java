@@ -24,7 +24,7 @@ public class BufferedCharacterStreamDemo {
 			br = new BufferedReader(fr);
 			bw = new BufferedWriter(fw);
 
-			System.out.println("file copy using FileReader/FileWriter in progress...");
+			System.out.println("file copy using FileReader/FileWriter(Buffered) in progress...");
 
 			String data = null;
 			while ((data = br.readLine()) != null) {

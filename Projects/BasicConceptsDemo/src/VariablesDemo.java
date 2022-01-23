@@ -1,5 +1,3 @@
-import java.util.Locale;
-
 public class VariablesDemo {
 
 	public static void main(String[] args) {
@@ -28,9 +26,9 @@ public class VariablesDemo {
 		for (String extract : split) {
 			System.out.println(extract);
 		}
-		
+
 		System.out.println(somestr.length());
-		
+
 		StringBuffer sb = new StringBuffer("Andromeda");
 		System.out.println(sb.reverse().toString().toUpperCase());
 	}
