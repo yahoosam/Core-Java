@@ -34,8 +34,7 @@ public class OrderMapDemo {
 		// use case - get the orders from store# 1211, customer# Kyle
 		List<OrderDetails> filteredcustorders = ordermap.entrySet().stream()
 				.filter(mapstorefilter -> mapstorefilter.getValue().getStoreNumber() == 1211)
-				.collect(Collectors.toMap(mapstorefilter -> mapstorefilter.getKey(),
-						mapstorefilter -> mapstorefilter.getValue()))
+				.collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue))
 				.entrySet().stream().filter(mapcustfilter -> mapcustfilter.getValue().getCustomerName().equals("Kyle"))
 				.map(Map.Entry::getValue).collect(Collectors.toList());
 
@@ -48,8 +47,7 @@ public class OrderMapDemo {
 		Map<Integer, OrderDetails> filteredordersmap = ordermap.entrySet().stream()
 				.filter(ordermapfiltered -> (ordermapfiltered.getKey().intValue() >= 400
 						&& ordermapfiltered.getKey().intValue() <= 450))
-				.collect(Collectors.toMap(ordermapfiltered -> ordermapfiltered.getKey(),
-						ordermapfiltered -> ordermapfiltered.getValue()));
+				.collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
 
 		for (Integer orderNumber : filteredordersmap.keySet()) {
 			System.out.println(filteredordersmap.get(orderNumber));
