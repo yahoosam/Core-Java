@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea4a86ff-acad-474a-b78b-94d736763d5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractionDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractionDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractionDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionDemo/src/com/abstractdemo/Note5.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractionDemo/src/com/abstractdemo/Note5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionDemo/src/com/abstractdemo/Note8.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractionDemo/src/com/abstractdemo/Note8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionDemo/src/com/abstractdemo/SamsungMobileNoteSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractionDemo/src/com/abstractdemo/SamsungMobileNoteSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/accessmodifier/AccessModifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/accessmodifier/AccessModifierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/accessmodifier/SamePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/accessmodifier/SamePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/package2/DifferentPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/package2/DifferentPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/package2/DifferentPackageExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccessModifierDemo/src/com/demo/package2/DifferentPackageExtends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnonymousClass/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousClass/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnonymousClass/.project" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousClass/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnonymousClass/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousClass/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnonymousClass/src/com/demo/anonymousclass/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousClass/src/com/demo/anonymousclass/AnonymousClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnonymousClass/src/com/demo/anonymousclass/innerclassdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousClass/src/com/demo/anonymousclass/innerclassdemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicConceptsDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/BasicConceptsDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicConceptsDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/BasicConceptsDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicConceptsDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/BasicConceptsDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicConceptsDemo/src/ExpressionEvaluationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicConceptsDemo/src/ExpressionEvaluationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicConceptsDemo/src/VariablesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicConceptsDemo/src/VariablesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionDemo/src/com/demo/collectionsutil/CollectionClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionDemo/src/com/demo/collectionsutil/CollectionClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionDemo/src/com/demo/collectionsutil/CustomComparatorAsc.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionDemo/src/com/demo/collectionsutil/CustomComparatorAsc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionDemo/src/com/demo/collectionsutil/CustomComparatorDsc.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionDemo/src/com/demo/collectionsutil/CustomComparatorDsc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerIdComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerIndustryComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerIndustryComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/entity/CustomerNameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/list/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/list/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/list/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/list/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/map/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/map/HashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/map/IdentityHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/map/IdentityHashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/map/LinkedHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/map/LinkedHashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/map/TreeMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/map/TreeMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/queue/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/queue/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/queue/PriorityQueueComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/queue/PriorityQueueComparatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/queue/PriorityQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/queue/PriorityQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/set/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/set/HashSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/set/LinkedHashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/set/LinkedHashSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/set/TreeSetComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/set/TreeSetComparatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/com/demo/set/TreeSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/com/demo/set/TreeSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueProducerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/blockingqueue/demo/BlockingQueueProducerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/ConcurrentHashMapThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/ConcurrentHashMapThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/CopyOnWriteArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/CopyOnWriteArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/CopyOnWriteArrayListThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/CopyOnWriteArrayListThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/CopyOnWriteArraySetThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/concurrency/demo/CopyOnWriteArraySetThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructorDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructorDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructorDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructorDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructorDemo/src/com/cj/constructor/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructorDemo/src/com/cj/constructor/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructorDemo/src/com/cj/constructor/ui/ConstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructorDemo/src/com/cj/constructor/ui/ConstructorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionDemo/src/com/cj/exception/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionDemo/src/com/cj/exception/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionDemo/src/com/cj/exception/mycustomexception/MyCustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionDemo/src/com/cj/exception/mycustomexception/MyCustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionDemo/src/com/cj/exception/ui/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionDemo/src/com/cj/exception/ui/ExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/CheckedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/CheckedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/CustomCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/CustomCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/CustomUnCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/CustomUnCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/UncheckedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomExceptionsChekedandUnChecked/src/com/custom/exception/UncheckedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProjectStreams/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProjectStreams/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProjectStreams/.project" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProjectStreams/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProjectStreams/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProjectStreams/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProjectStreams/src/com/project/streams/OrderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProjectStreams/src/com/project/streams/OrderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProjectStreams/src/com/project/streams/OrderDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProjectStreams/src/com/project/streams/OrderDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProjectStreams/src/com/project/streams/OrderMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProjectStreams/src/com/project/streams/OrderMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/Callable/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/Callable/CallableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/Callable/SumCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/Callable/SumCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/chequeprocessor/ChequeProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/chequeprocessor/ChequeProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/chequeprocessor/ExecutorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorFramework/src/com/demo/chequeprocessor/ExecutorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/CustomGenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/CustomGenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/GenericClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/GenericClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/GenericMethodExtendsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/GenericMethodExtendsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/GenericsMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenericsDemo/src/com/demo/genericsdemo/GenericsMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/file1_copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/file1_copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/bytestreams/BufferedByteStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/bytestreams/BufferedByteStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/bytestreams/ByteStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/bytestreams/ByteStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/characterstreams/BufferedCharacterStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/characterstreams/BufferedCharacterStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/characterstreams/CharacterStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/characterstreams/CharacterStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/objectstreams/CreditCardCust.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/objectstreams/CreditCardCust.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/objectstreams/ObjectStreamsSerializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/objectstreams/ObjectStreamsSerializationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/trywithresource/TrywithResourceBufferedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/trywithresource/TrywithResourceBufferedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/trywithresource/TrywithResourceCharacterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStreamsDemo/src/com/demo/trywithresource/TrywithResourceCharacterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo/src/com/emp/inheritance/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/eventinterface/EventManagerDrawingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/eventinterface/EventManagerDrawingImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/eventinterface/EventManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/eventinterface/EventManger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/eventinterface/EventMangerEssayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/eventinterface/EventMangerEssayImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/BaseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Organizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Organizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Participants.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Participants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Venue.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/model/Venue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/test/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterSchoolEventDemo/src/com/bridge/test/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/ExtendedFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/ExtendedFunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/FirstFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/FirstFunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/LamdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/LamdaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/LegacyImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/LegacyImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/constructorreferencing/ConstructorReferenceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/constructorreferencing/ConstructorReferenceClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/constructorreferencing/ConstructorReferenceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/constructorreferencing/ConstructorReferenceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/constructorreferencing/ConstructorReferencingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/constructorreferencing/ConstructorReferencingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/function/lamdaFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/function/lamdaFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/innerclass/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/innerclass/InnerClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/methodreferencing/MethodReferencingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/methodreferencing/MethodReferencingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/methodreferencing/MyCustomInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/methodreferencing/MyCustomInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/parameters/LamdaParametersDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/parameters/LamdaParametersDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/parameters/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/parameters/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/predicate/PredicateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/predicate/PredicateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/predicate/PredicateJoinsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/predicate/PredicateJoinsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/runnable/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/runnable/RunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/runnable/RunnableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/lamda/runnable/RunnableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/streams/StreamsFilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/streams/StreamsFilterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/streams/StreamsMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/streams/StreamsMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Features/src/com/demo/streams/StreamsUtilAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Features/src/com/demo/streams/StreamsUtilAPIDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/CommonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/CommonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/EvenOddDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/EvenOddDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/EvenPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/EvenPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/OddPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/interviewqa/evenodddemo/OddPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/AnonymousClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/ThreadingExtendThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/ThreadingExtendThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/ThreadingJoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/ThreadingJoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/ThreadingRunnableInterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/ThreadingRunnableInterfaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/deadlock/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/deadlock/DeadLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/deadlock/FirstResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/deadlock/FirstResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/deadlock/SecondResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/deadlock/SecondResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronization/DisplayMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronization/DisplayMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronization/DisplayMsgThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronization/DisplayMsgThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronization/SynchronizeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronization/SynchronizeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronizedblock/CalculateSumThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronizedblock/CalculateSumThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronizedblock/SynchronizedBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/synchronizedblock/SynchronizedBlockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/CommonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/CommonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/DataConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/DataConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/DataProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/DataProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/WaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/waitnotify/WaitNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/yield/MyYieldThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/yield/MyYieldThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/yield/YieldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadingDemo/src/com/demo/threading/yield/YieldDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/MacBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/MacBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/MacBookAir.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/MacBookAir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/MacBookPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbinding/MacBookPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/AppleLaptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/AppleLaptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/MacBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/MacBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/MacBookAir.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/MacBookAir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/MacBookPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/dynamicbindinginterface/MacBookPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/mainmethod/overloadingandriding/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/mainmethod/overloadingandriding/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/mainmethod/overloadingandriding/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/mainmethod/overloadingandriding/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismDemo/src/com/staticbinding/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismDemo/src/com/staticbinding/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDemo/src/SeleniumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDemo/src/SeleniumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/catalina.policy" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/catalina.policy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/jmxremote.access" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/jmxremote.access" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/jmxremote.password" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/jmxremote.password" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/tomcat-users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servers/VMware tc Server Developer Edition v4.1-config/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2555JYqs6ZaIG55xRKVFB5qnyEv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea4a86ff-acad-474a-b78b-94d736763d5c" name="Changes" comment="" />
+      <created>1644804036450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644804036450</updated>
+    </task>
+    <servers />
+  </component>
+</project>

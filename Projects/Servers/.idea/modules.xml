@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AbstractionDemo/AbstractionDemo.iml" filepath="$PROJECT_DIR$/../AbstractionDemo/AbstractionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AccessModifierDemo/AccessModifierDemo.iml" filepath="$PROJECT_DIR$/../AccessModifierDemo/AccessModifierDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AnonymousClass/AnonymousClass.iml" filepath="$PROJECT_DIR$/../AnonymousClass/AnonymousClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BasicConceptsDemo/BasicConceptsDemo.iml" filepath="$PROJECT_DIR$/../BasicConceptsDemo/BasicConceptsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/../CollectionDemo/CollectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Collections/Collections.iml" filepath="$PROJECT_DIR$/../Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConcurrentCollections/ConcurrentCollections.iml" filepath="$PROJECT_DIR$/../ConcurrentCollections/ConcurrentCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConstructorDemo/ConstuctorDemo.iml" filepath="$PROJECT_DIR$/../ConstructorDemo/ConstuctorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CustomExceptionDemo/CustomExceptionDemo.iml" filepath="$PROJECT_DIR$/../CustomExceptionDemo/CustomExceptionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CustomExceptionsChekedandUnChecked/CustomExceptionsChekedandUnChecked.iml" filepath="$PROJECT_DIR$/../CustomExceptionsChekedandUnChecked/CustomExceptionsChekedandUnChecked.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoProjectStreams/DemoProjectStreams.iml" filepath="$PROJECT_DIR$/../DemoProjectStreams/DemoProjectStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExecutorFramework/ExecutorFramework.iml" filepath="$PROJECT_DIR$/../ExecutorFramework/ExecutorFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GenericsDemo/GenericsDemo.iml" filepath="$PROJECT_DIR$/../GenericsDemo/GenericsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOStreamsDemo/IOStreamsDemo.iml" filepath="$PROJECT_DIR$/../IOStreamsDemo/IOStreamsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/../InheritanceDemo/InheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterSchoolEventDemo/InterSchoolEventDemo.iml" filepath="$PROJECT_DIR$/../InterSchoolEventDemo/InterSchoolEventDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java8Features/Java8Features.iml" filepath="$PROJECT_DIR$/../Java8Features/Java8Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MapDemo/MapDemo.iml" filepath="$PROJECT_DIR$/../MapDemo/MapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MultiThreadingDemo/MultiThreadingDemo.iml" filepath="$PROJECT_DIR$/../MultiThreadingDemo/MultiThreadingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/../PolymorphismDemo/PolymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SeleniumDemo/SeleniumDemo.iml" filepath="$PROJECT_DIR$/../SeleniumDemo/SeleniumDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servers.iml" filepath="$PROJECT_DIR$/Servers.iml" />
+    </modules>
+  </component>
+</project>
