@@ -80,13 +80,16 @@ public class OrderMapDemo {
                 .stream().sorted(Comparator.comparing(OrderDetails::getCustomerName))
                 .forEach(order -> System.out.println(order));
 
-        System.out.println("------------------print filtered list name sorted dsc-----------------");
-        ordermap.entrySet().stream()
+        System.out.println("------------------print filtered list name sorted dsc forEach shortcut-----------------");
+        ordermap.entrySet()
+                .stream()
                 .filter(ordermapfiltered -> (ordermapfiltered.getKey().intValue() >= 400
                         && ordermapfiltered.getKey().intValue() <= 450))
-                .map(Map.Entry::getValue).collect(Collectors.toList())
-                .stream().sorted(Comparator.comparing(OrderDetails::getCustomerName).reversed())
-                .forEach(order -> System.out.println(order));
+                .map(Map.Entry::getValue)
+                .collect(Collectors.toList())
+                .stream()
+                .sorted(Comparator.comparing(OrderDetails::getCustomerName).reversed())
+                .forEach(System.out::println);
     }
 
 }

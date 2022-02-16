@@ -58,16 +58,13 @@ public class OrderDemo {
 			System.out.println(order);
 		}
 
-		System.out.println("----------sorted dsc order number using stream api-----------");
+		System.out.println("----------sorted dsc order number using streams sorted api-----------");
 		orderlist.stream()
-				.filter(order -> (order.getStoreNumber() == 1211))
-				.collect(Collectors.toList())
-				.stream()
-				.filter(cusorder -> (cusorder.getCustomerName().compareTo("Kyle") == 0))
+				.filter(order -> ((order.getStoreNumber() == 1211) && (order.getCustomerName().compareTo("Kyle") == 0)))
 				.collect(Collectors.toList())
 				.stream()
 				.sorted(Comparator.comparing(OrderDetails::getOrderNumber).reversed())
-				.forEach(order -> System.out.println(order));
+				.forEach(System.out::println);
 	}
 
 }
