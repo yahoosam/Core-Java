@@ -61,7 +61,8 @@ public class OrderDemo {
 		System.out.println("----------sorted dsc order number using stream api-----------");
 		orderlist.stream()
 				.filter(order -> (order.getStoreNumber() == 1211))
-				.collect(Collectors.toList()).stream()
+				.collect(Collectors.toList())
+				.stream()
 				.filter(cusorder -> (cusorder.getCustomerName().compareTo("Kyle") == 0))
 				.collect(Collectors.toList())
 				.stream()
