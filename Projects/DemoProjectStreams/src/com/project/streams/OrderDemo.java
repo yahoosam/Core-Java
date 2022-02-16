@@ -1,6 +1,7 @@
 package com.project.streams;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -56,6 +57,16 @@ public class OrderDemo {
 		for (OrderDetails order : filteredordersordernumsorted) {
 			System.out.println(order);
 		}
+
+		System.out.println("----------sorted dsc order number using stream api-----------");
+		orderlist.stream()
+				.filter(order -> (order.getStoreNumber() == 1211))
+				.collect(Collectors.toList()).stream()
+				.filter(cusorder -> (cusorder.getCustomerName().compareTo("Kyle") == 0))
+				.collect(Collectors.toList())
+				.stream()
+				.sorted(Comparator.comparing(OrderDetails::getOrderNumber).reversed())
+				.forEach(order -> System.out.println(order));
 	}
 
 }
