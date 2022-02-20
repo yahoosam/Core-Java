@@ -3,6 +3,7 @@ package com.project.streams;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class OrderDemo {
@@ -56,6 +57,15 @@ public class OrderDemo {
 				.collect(Collectors.toList())
 				.stream()
 				.sorted(Comparator.comparing(OrderDetails::getOrderNumber).reversed())
+				.forEach(System.out::println);
+
+		System.out.println("----------get the orderlines for filter criteria-----------");
+		orderlist.stream()
+				.filter(order -> ((order.getStoreNumber() == 1211) && (order.getCustomerName().compareTo("Kyle") == 0)))
+				.map(OrderDetails::getOrderLines)
+				.collect(Collectors.toList())
+				.stream()
+				.sorted()
 				.forEach(System.out::println);
 	}
 
