@@ -27,9 +27,7 @@ public class OrderDemo {
 
 		// print the order list
 		System.out.println(orderlist.size());
-		for (OrderDetails order : orderlist) {
-			System.out.println(order);
-		}
+		orderlist.forEach(System.out::println);
 
 		System.out.println("------------------filtered-----------------");
 		// use case - get the orders from store# 1211, customer# Kyle
@@ -38,25 +36,19 @@ public class OrderDemo {
 				.filter(cusorder -> (cusorder.getCustomerName().compareTo("Kyle") == 0)).collect(Collectors.toList());
 
 		System.out.println(filteredorders.size());
-		for (OrderDetails order : filteredorders) {
-			System.out.println(order);
-		}
+		filteredorders.forEach(System.out::println);
 
 		System.out.println("----------sorted asc order total-----------");
 		List<OrderDetails> filteredorderstotalsorted = filteredorders.stream().sorted(OrderDetails.asctotalcomp)
 				.collect(Collectors.toList());
 		System.out.println(filteredorderstotalsorted.size());
-		for (OrderDetails order : filteredorderstotalsorted) {
-			System.out.println(order);
-		}
+		filteredorderstotalsorted.forEach(System.out::println);
 
 		System.out.println("----------sorted asc order number-----------");
 		List<OrderDetails> filteredordersordernumsorted = filteredorders.stream().sorted(OrderDetails.ascordernumcomp)
 				.collect(Collectors.toList());
 		System.out.println(filteredordersordernumsorted.size());
-		for (OrderDetails order : filteredordersordernumsorted) {
-			System.out.println(order);
-		}
+		filteredordersordernumsorted.forEach(System.out::println);
 
 		System.out.println("----------sorted dsc order number using streams sorted api-----------");
 		orderlist.stream()
