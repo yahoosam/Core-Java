@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/../CustomExceptionDemo/CustomExceptionDemo.iml" filepath="$PROJECT_DIR$/../CustomExceptionDemo/CustomExceptionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CustomExceptionsChekedandUnChecked/CustomExceptionsChekedandUnChecked.iml" filepath="$PROJECT_DIR$/../CustomExceptionsChekedandUnChecked/CustomExceptionsChekedandUnChecked.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DemoProjectStreams/DemoProjectStreams.iml" filepath="$PROJECT_DIR$/../DemoProjectStreams/DemoProjectStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EnumsDemo/EnumsDemo.iml" filepath="$PROJECT_DIR$/../EnumsDemo/EnumsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EqualsHashCodeDemo/EqualsHashCodeDemo.iml" filepath="$PROJECT_DIR$/../EqualsHashCodeDemo/EqualsHashCodeDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ExecutorFramework/ExecutorFramework.iml" filepath="$PROJECT_DIR$/../ExecutorFramework/ExecutorFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/../GenericsDemo/GenericsDemo.iml" filepath="$PROJECT_DIR$/../GenericsDemo/GenericsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../IOStreamsDemo/IOStreamsDemo.iml" filepath="$PROJECT_DIR$/../IOStreamsDemo/IOStreamsDemo.iml" />

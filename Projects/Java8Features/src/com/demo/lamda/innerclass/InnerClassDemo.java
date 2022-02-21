@@ -24,6 +24,7 @@ public class InnerClassDemo {
 		
 		//another simple single line example
 		new Thread(()->{System.out.println("Inside another single line lamda thread");}).start();
+		new Thread(()-> System.out.println("Inside another single line lamda thread")).start();
 	}
 
 }
