@@ -1,5 +1,7 @@
 package com.demo.lamda;
 
+import java.util.function.Consumer;
+
 public class LamdaDemo {
 
 	public static void main(String[] args) {
