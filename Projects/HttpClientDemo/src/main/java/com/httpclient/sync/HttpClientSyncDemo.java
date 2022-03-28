@@ -58,7 +58,7 @@ public class HttpClientSyncDemo {
         response = httpClient.send(builder, HttpResponse.BodyHandlers.ofString());
         System.out.println(response.statusCode());
         System.out.println(response.body());
-        
+
         //see the response headers
         //System.out.println(response.headers().map()); //single line
         HttpHeaders headers = response.headers();
