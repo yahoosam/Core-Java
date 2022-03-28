@@ -1,4 +1,4 @@
-package com.httpclient.sync;
+package com.httpclient;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

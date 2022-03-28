@@ -1,4 +1,4 @@
-package com.httpclient.sync;
+package com.httpclient;
 
 public class Books {
     private int id;
