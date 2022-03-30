@@ -26,7 +26,7 @@ public class HttpClientASyncDemo {
                 .GET().build();
         CompletableFuture<HttpResponse<String>> response = httpClient.sendAsync(builder, HttpResponse.BodyHandlers.ofString());
         System.out.println(response.thenApply(HttpResponse::statusCode).get());
-        System.out.println(response.thenApply(HttpResponse::body).get());
+        //System.out.println(response.thenApply(HttpResponse::body).get());
 
         //convert json response to object
         ObjectMapper objectMapper = new ObjectMapper();
@@ -67,5 +67,7 @@ public class HttpClientASyncDemo {
         Map<String, List<String>> headersmap = headers.map();
         System.out.println(headersmap);
         System.out.println(headersmap.get("api-supported-versions"));
+
+        System.out.println("---------------------END ASYNC------------------------");
     }
 }

@@ -65,5 +65,7 @@ public class HttpClientSyncDemo {
         Map<String, List<String>> headersmap = headers.map();
         System.out.println(headersmap);
         System.out.println(headersmap.get("api-supported-versions"));
+
+        System.out.println("---------------------END SYNC------------------------");
     }
 }
